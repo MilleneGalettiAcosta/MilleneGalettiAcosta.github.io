@@ -1,0 +1,9 @@
+h1{color:#240046;font-family: monospace,sans-serif;line-height: 40px;}
+h2{color:#240046;font-family: monospace,sans-serif;line-height: 40px}
+h3{color:#3c096c;font-family: monospace,sans-serif;line-height: 40px}
+h4{color: #3c096c;font-family: monospace,sans-serif;line-height: 20px;}
+.links{color: #fff; background-color:#5e60ce;text-decoration: none;border-radius: 15%;padding: 10px 10px;text-align: center;font-family: monospace,sans-serif;}
+body{background-color:#cddafd;}
+li{font-family: monospace,sans-serif;}
+p{font-family:monospace, sans-serif;}
+#foto-perfil{border-radius: 50px; text-align: center;}
